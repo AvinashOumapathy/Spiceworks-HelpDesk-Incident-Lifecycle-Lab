@@ -71,6 +71,6 @@ By operating simultaneously as the end-user (generating service requests) and th
 *(To display these screenshots on your live profile, place your captured images inside an `images/` directory within this repository and link them below)*
 
 * **Main Operations Queue:**
-    `![Help Desk Dashboard Queue](images/dashboard_queue.png)` *(Insert image showing your organized, categorized, and prioritized ticket streams)*
+    ![Help Desk Dashboard Queue](dashboard_queue.png) 
 * **ITSM Audit Trail & Timeline:**
-    `![Detailed Ticket History](images/ticket_audit_trail.png)` *(Insert image of an open case study showing the exact chronological timeline of internal notes and public communications)*
+    ![Detailed Ticket History](ticket_audit_trail.png)
